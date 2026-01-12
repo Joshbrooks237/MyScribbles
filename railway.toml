@@ -12,7 +12,7 @@ sourceDir = "api"
 
 # Environment variables for the API service
 [services.api.envVars]
-OPENAI_API_KEY = "your_openai_api_key_here"
+OPENAI_API_KEY = "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"
 
 # Environment variables for the frontend service
 [services.frontend.envVars]
