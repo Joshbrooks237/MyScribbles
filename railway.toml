@@ -12,7 +12,7 @@ sourceDir = "api"
 
 # Environment variables for the API service
 [services.api.envVars]
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # Environment variables for the frontend service
 [services.frontend.envVars]
